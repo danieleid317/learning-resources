@@ -1,0 +1,29 @@
+Deep Learning Ian GoodFellow
+https://www.deeplearningbook.org/
+
+TensorFlow Tutorials
+https://www.tensorflow.org/tutorials
+
+Pytorch Tutorials
+https://pytorch.org/tutorials/
+
+scikit-Learning
+https://scikit-learn.org/stable/
+
+Pascaal Poupart University of Waterloo Lectures
+https://www.youtube.com/channel/UC7ZVvEo7-B7lA6LY2MVX72A/featured
+
+Microsoft Research
+https://www.youtube.com/user/MicrosoftResearch
+
+W3Schools AI
+https://www.w3schools.com/ai/default.asp
+
+Deepmind
+https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
+
+Stanford Online
+https://www.youtube.com/user/stanfordonline
+
+MIT Opencourseware
+https://www.youtube.com/c/mitocw
